@@ -1,0 +1,1001 @@
+Customer_ID,Global_Segment
+C000,Subscription Members
+C001,Occasional Shoppers
+C002,Mobile Shoppers
+C003,Subscription Members
+C004,Frequent Buyers
+C005,Eco-conscious
+C006,Mobile Shoppers
+C007,Mobile Shoppers
+C008,Subscription Members
+C009,Quality Focused
+C010,Frequent Buyers
+C011,Subscription Members
+C012,Frequent Buyers
+C013,Frequent Buyers
+C014,Eco-conscious
+C015,Mobile Shoppers
+C016,Occasional Shoppers
+C017,Eco-conscious
+C018,Eco-conscious
+C019,Frequent Buyers
+C020,In-Store Loyalists
+C021,Mobile Shoppers
+C022,Quality Focused
+C023,Eco-conscious
+C024,Occasional Shoppers
+C025,In-Store Loyalists
+C026,In-Store Loyalists
+C027,Quality Focused
+C028,Eco-conscious
+C029,Occasional Shoppers
+C030,Mobile Shoppers
+C031,Price Sensitive
+C032,Occasional Shoppers
+C033,Quality Focused
+C034,In-Store Loyalists
+C035,Mobile Shoppers
+C036,Occasional Shoppers
+C037,Price Sensitive
+C038,Price Sensitive
+C039,Frequent Buyers
+C040,Frequent Buyers
+C041,Subscription Members
+C042,Quality Focused
+C043,Eco-conscious
+C044,Occasional Shoppers
+C045,Occasional Shoppers
+C046,Eco-conscious
+C047,Subscription Members
+C048,In-Store Loyalists
+C049,In-Store Loyalists
+C050,Subscription Members
+C051,In-Store Loyalists
+C052,Frequent Buyers
+C053,Occasional Shoppers
+C054,Subscription Members
+C055,Occasional Shoppers
+C056,Eco-conscious
+C057,Price Sensitive
+C058,Frequent Buyers
+C059,Mobile Shoppers
+C060,Frequent Buyers
+C061,Subscription Members
+C062,Mobile Shoppers
+C063,Price Sensitive
+C064,Subscription Members
+C065,Quality Focused
+C066,Occasional Shoppers
+C067,Price Sensitive
+C068,Occasional Shoppers
+C069,In-Store Loyalists
+C070,Quality Focused
+C071,Quality Focused
+C072,Price Sensitive
+C073,Quality Focused
+C074,Mobile Shoppers
+C075,Quality Focused
+C076,Occasional Shoppers
+C077,Occasional Shoppers
+C078,Subscription Members
+C079,Occasional Shoppers
+C080,Subscription Members
+C081,Occasional Shoppers
+C082,Mobile Shoppers
+C083,Eco-conscious
+C084,Subscription Members
+C085,Frequent Buyers
+C086,In-Store Loyalists
+C087,Price Sensitive
+C088,Occasional Shoppers
+C089,Quality Focused
+C090,Eco-conscious
+C091,Occasional Shoppers
+C092,Quality Focused
+C093,In-Store Loyalists
+C094,In-Store Loyalists
+C095,In-Store Loyalists
+C096,Quality Focused
+C097,Occasional Shoppers
+C098,In-Store Loyalists
+C099,Mobile Shoppers
+C100,Subscription Members
+C101,Quality Focused
+C102,Quality Focused
+C103,Occasional Shoppers
+C104,Quality Focused
+C105,Quality Focused
+C106,In-Store Loyalists
+C107,Occasional Shoppers
+C108,In-Store Loyalists
+C109,Subscription Members
+C110,Eco-conscious
+C111,Subscription Members
+C112,Eco-conscious
+C113,In-Store Loyalists
+C114,Subscription Members
+C115,Occasional Shoppers
+C116,Price Sensitive
+C117,In-Store Loyalists
+C118,Eco-conscious
+C119,Mobile Shoppers
+C120,Eco-conscious
+C121,Mobile Shoppers
+C122,Quality Focused
+C123,Subscription Members
+C124,Mobile Shoppers
+C125,Eco-conscious
+C126,Quality Focused
+C127,Price Sensitive
+C128,Occasional Shoppers
+C129,Occasional Shoppers
+C130,Occasional Shoppers
+C131,Mobile Shoppers
+C132,Price Sensitive
+C133,Mobile Shoppers
+C134,Subscription Members
+C135,Mobile Shoppers
+C136,Price Sensitive
+C137,Price Sensitive
+C138,Subscription Members
+C139,Price Sensitive
+C140,Eco-conscious
+C141,Price Sensitive
+C142,Occasional Shoppers
+C143,Eco-conscious
+C144,Eco-conscious
+C145,Subscription Members
+C146,Frequent Buyers
+C147,Frequent Buyers
+C148,Price Sensitive
+C149,Eco-conscious
+C150,Frequent Buyers
+C151,Frequent Buyers
+C152,Price Sensitive
+C153,Frequent Buyers
+C154,Mobile Shoppers
+C155,Quality Focused
+C156,Subscription Members
+C157,Quality Focused
+C158,Price Sensitive
+C159,Occasional Shoppers
+C160,Subscription Members
+C161,Price Sensitive
+C162,Eco-conscious
+C163,Occasional Shoppers
+C164,Quality Focused
+C165,Price Sensitive
+C166,Eco-conscious
+C167,Subscription Members
+C168,Subscription Members
+C169,In-Store Loyalists
+C170,Eco-conscious
+C171,Mobile Shoppers
+C172,Frequent Buyers
+C173,Occasional Shoppers
+C174,Eco-conscious
+C175,In-Store Loyalists
+C176,Frequent Buyers
+C177,Frequent Buyers
+C178,Price Sensitive
+C179,Frequent Buyers
+C180,Mobile Shoppers
+C181,Subscription Members
+C182,In-Store Loyalists
+C183,Frequent Buyers
+C184,Price Sensitive
+C185,Mobile Shoppers
+C186,Quality Focused
+C187,Subscription Members
+C188,Subscription Members
+C189,In-Store Loyalists
+C190,Subscription Members
+C191,Frequent Buyers
+C192,Price Sensitive
+C193,Subscription Members
+C194,Subscription Members
+C195,Quality Focused
+C196,Quality Focused
+C197,Occasional Shoppers
+C198,Mobile Shoppers
+C199,Frequent Buyers
+C200,Subscription Members
+C201,Eco-conscious
+C202,Subscription Members
+C203,Price Sensitive
+C204,Occasional Shoppers
+C205,Mobile Shoppers
+C206,Eco-conscious
+C207,Occasional Shoppers
+C208,In-Store Loyalists
+C209,Mobile Shoppers
+C210,Subscription Members
+C211,Subscription Members
+C212,Mobile Shoppers
+C213,Subscription Members
+C214,Frequent Buyers
+C215,Mobile Shoppers
+C216,Occasional Shoppers
+C217,Mobile Shoppers
+C218,Eco-conscious
+C219,Subscription Members
+C220,Frequent Buyers
+C221,Frequent Buyers
+C222,In-Store Loyalists
+C223,Occasional Shoppers
+C224,Quality Focused
+C225,Quality Focused
+C226,Mobile Shoppers
+C227,In-Store Loyalists
+C228,Price Sensitive
+C229,Mobile Shoppers
+C230,In-Store Loyalists
+C231,Occasional Shoppers
+C232,Occasional Shoppers
+C233,Occasional Shoppers
+C234,Occasional Shoppers
+C235,Occasional Shoppers
+C236,In-Store Loyalists
+C237,In-Store Loyalists
+C238,Frequent Buyers
+C239,Eco-conscious
+C240,Quality Focused
+C241,Subscription Members
+C242,Occasional Shoppers
+C243,Price Sensitive
+C244,Subscription Members
+C245,In-Store Loyalists
+C246,Price Sensitive
+C247,Price Sensitive
+C248,Price Sensitive
+C249,Frequent Buyers
+C250,In-Store Loyalists
+C251,Price Sensitive
+C252,Occasional Shoppers
+C253,Mobile Shoppers
+C254,Price Sensitive
+C255,Frequent Buyers
+C256,Subscription Members
+C257,In-Store Loyalists
+C258,Eco-conscious
+C259,Frequent Buyers
+C260,Price Sensitive
+C261,In-Store Loyalists
+C262,Mobile Shoppers
+C263,Price Sensitive
+C264,Frequent Buyers
+C265,Quality Focused
+C266,Occasional Shoppers
+C267,Eco-conscious
+C268,Subscription Members
+C269,Frequent Buyers
+C270,In-Store Loyalists
+C271,Eco-conscious
+C272,Eco-conscious
+C273,Eco-conscious
+C274,Price Sensitive
+C275,Occasional Shoppers
+C276,Price Sensitive
+C277,In-Store Loyalists
+C278,Price Sensitive
+C279,Quality Focused
+C280,Occasional Shoppers
+C281,Occasional Shoppers
+C282,In-Store Loyalists
+C283,Subscription Members
+C284,Quality Focused
+C285,Frequent Buyers
+C286,Price Sensitive
+C287,Mobile Shoppers
+C288,Price Sensitive
+C289,Eco-conscious
+C290,Price Sensitive
+C291,Frequent Buyers
+C292,Price Sensitive
+C293,Quality Focused
+C294,Quality Focused
+C295,Occasional Shoppers
+C296,In-Store Loyalists
+C297,Subscription Members
+C298,Mobile Shoppers
+C299,Eco-conscious
+C300,Price Sensitive
+C301,Price Sensitive
+C302,Frequent Buyers
+C303,In-Store Loyalists
+C304,Quality Focused
+C305,Mobile Shoppers
+C306,Occasional Shoppers
+C307,Quality Focused
+C308,Eco-conscious
+C309,In-Store Loyalists
+C310,Eco-conscious
+C311,Subscription Members
+C312,Occasional Shoppers
+C313,Subscription Members
+C314,Frequent Buyers
+C315,Eco-conscious
+C316,Frequent Buyers
+C317,Price Sensitive
+C318,Subscription Members
+C319,In-Store Loyalists
+C320,Eco-conscious
+C321,Mobile Shoppers
+C322,Occasional Shoppers
+C323,Quality Focused
+C324,In-Store Loyalists
+C325,In-Store Loyalists
+C326,Frequent Buyers
+C327,Subscription Members
+C328,Eco-conscious
+C329,Eco-conscious
+C330,Price Sensitive
+C331,Price Sensitive
+C332,Occasional Shoppers
+C333,Frequent Buyers
+C334,In-Store Loyalists
+C335,Eco-conscious
+C336,Mobile Shoppers
+C337,Frequent Buyers
+C338,Occasional Shoppers
+C339,Occasional Shoppers
+C340,Frequent Buyers
+C341,Occasional Shoppers
+C342,Frequent Buyers
+C343,Quality Focused
+C344,Frequent Buyers
+C345,Subscription Members
+C346,Frequent Buyers
+C347,Occasional Shoppers
+C348,Eco-conscious
+C349,Subscription Members
+C350,Occasional Shoppers
+C351,Price Sensitive
+C352,Price Sensitive
+C353,Eco-conscious
+C354,Eco-conscious
+C355,Subscription Members
+C356,Quality Focused
+C357,Eco-conscious
+C358,Price Sensitive
+C359,Frequent Buyers
+C360,Occasional Shoppers
+C361,Price Sensitive
+C362,Price Sensitive
+C363,Quality Focused
+C364,Subscription Members
+C365,Subscription Members
+C366,In-Store Loyalists
+C367,Quality Focused
+C368,Frequent Buyers
+C369,Subscription Members
+C370,Occasional Shoppers
+C371,Eco-conscious
+C372,Quality Focused
+C373,Eco-conscious
+C374,Price Sensitive
+C375,Occasional Shoppers
+C376,Occasional Shoppers
+C377,Price Sensitive
+C378,Quality Focused
+C379,Price Sensitive
+C380,Eco-conscious
+C381,In-Store Loyalists
+C382,Occasional Shoppers
+C383,Mobile Shoppers
+C384,Mobile Shoppers
+C385,Eco-conscious
+C386,Frequent Buyers
+C387,Subscription Members
+C388,Price Sensitive
+C389,Price Sensitive
+C390,Frequent Buyers
+C391,Frequent Buyers
+C392,Eco-conscious
+C393,Eco-conscious
+C394,Frequent Buyers
+C395,Occasional Shoppers
+C396,Eco-conscious
+C397,In-Store Loyalists
+C398,Eco-conscious
+C399,Price Sensitive
+C400,Eco-conscious
+C401,Occasional Shoppers
+C402,Frequent Buyers
+C403,Price Sensitive
+C404,Eco-conscious
+C405,Occasional Shoppers
+C406,In-Store Loyalists
+C407,Eco-conscious
+C408,Occasional Shoppers
+C409,In-Store Loyalists
+C410,Frequent Buyers
+C411,Eco-conscious
+C412,In-Store Loyalists
+C413,Price Sensitive
+C414,Frequent Buyers
+C415,Price Sensitive
+C416,Mobile Shoppers
+C417,Quality Focused
+C418,Eco-conscious
+C419,In-Store Loyalists
+C420,Quality Focused
+C421,Quality Focused
+C422,In-Store Loyalists
+C423,Frequent Buyers
+C424,Eco-conscious
+C425,Mobile Shoppers
+C426,Price Sensitive
+C427,Occasional Shoppers
+C428,Price Sensitive
+C429,Occasional Shoppers
+C430,Price Sensitive
+C431,In-Store Loyalists
+C432,Mobile Shoppers
+C433,Eco-conscious
+C434,Occasional Shoppers
+C435,Eco-conscious
+C436,Eco-conscious
+C437,Eco-conscious
+C438,Subscription Members
+C439,Frequent Buyers
+C440,Price Sensitive
+C441,Eco-conscious
+C442,Price Sensitive
+C443,Eco-conscious
+C444,Occasional Shoppers
+C445,Frequent Buyers
+C446,Frequent Buyers
+C447,In-Store Loyalists
+C448,Subscription Members
+C449,In-Store Loyalists
+C450,In-Store Loyalists
+C451,In-Store Loyalists
+C452,In-Store Loyalists
+C453,In-Store Loyalists
+C454,Mobile Shoppers
+C455,Frequent Buyers
+C456,In-Store Loyalists
+C457,Eco-conscious
+C458,Frequent Buyers
+C459,Frequent Buyers
+C460,Quality Focused
+C461,Mobile Shoppers
+C462,In-Store Loyalists
+C463,Price Sensitive
+C464,Occasional Shoppers
+C465,Subscription Members
+C466,Eco-conscious
+C467,Price Sensitive
+C468,Mobile Shoppers
+C469,Occasional Shoppers
+C470,Mobile Shoppers
+C471,Eco-conscious
+C472,Frequent Buyers
+C473,Occasional Shoppers
+C474,Frequent Buyers
+C475,Eco-conscious
+C476,Price Sensitive
+C477,Eco-conscious
+C478,Price Sensitive
+C479,Occasional Shoppers
+C480,Occasional Shoppers
+C481,In-Store Loyalists
+C482,Mobile Shoppers
+C483,In-Store Loyalists
+C484,Mobile Shoppers
+C485,In-Store Loyalists
+C486,Frequent Buyers
+C487,Occasional Shoppers
+C488,Price Sensitive
+C489,Mobile Shoppers
+C490,Eco-conscious
+C491,Mobile Shoppers
+C492,Price Sensitive
+C493,In-Store Loyalists
+C494,Mobile Shoppers
+C495,Subscription Members
+C496,Frequent Buyers
+C497,Occasional Shoppers
+C498,Price Sensitive
+C499,Occasional Shoppers
+C500,Subscription Members
+C501,Mobile Shoppers
+C502,Mobile Shoppers
+C503,Eco-conscious
+C504,Subscription Members
+C505,Price Sensitive
+C506,Eco-conscious
+C507,Frequent Buyers
+C508,Eco-conscious
+C509,Quality Focused
+C510,Price Sensitive
+C511,Quality Focused
+C512,Subscription Members
+C513,In-Store Loyalists
+C514,Quality Focused
+C515,Frequent Buyers
+C516,Eco-conscious
+C517,In-Store Loyalists
+C518,Eco-conscious
+C519,Quality Focused
+C520,Eco-conscious
+C521,Subscription Members
+C522,In-Store Loyalists
+C523,Subscription Members
+C524,Quality Focused
+C525,Subscription Members
+C526,Frequent Buyers
+C527,Quality Focused
+C528,Quality Focused
+C529,Quality Focused
+C530,Price Sensitive
+C531,Eco-conscious
+C532,Price Sensitive
+C533,Price Sensitive
+C534,Frequent Buyers
+C535,In-Store Loyalists
+C536,Eco-conscious
+C537,Subscription Members
+C538,Mobile Shoppers
+C539,Quality Focused
+C540,Subscription Members
+C541,Quality Focused
+C542,Frequent Buyers
+C543,Quality Focused
+C544,Price Sensitive
+C545,Eco-conscious
+C546,Mobile Shoppers
+C547,Occasional Shoppers
+C548,Quality Focused
+C549,Subscription Members
+C550,Price Sensitive
+C551,Occasional Shoppers
+C552,Mobile Shoppers
+C553,Occasional Shoppers
+C554,Price Sensitive
+C555,Eco-conscious
+C556,Eco-conscious
+C557,In-Store Loyalists
+C558,Eco-conscious
+C559,In-Store Loyalists
+C560,Occasional Shoppers
+C561,Frequent Buyers
+C562,Subscription Members
+C563,Subscription Members
+C564,Occasional Shoppers
+C565,Quality Focused
+C566,Quality Focused
+C567,Eco-conscious
+C568,Subscription Members
+C569,Subscription Members
+C570,In-Store Loyalists
+C571,Frequent Buyers
+C572,Price Sensitive
+C573,Quality Focused
+C574,Subscription Members
+C575,In-Store Loyalists
+C576,Mobile Shoppers
+C577,In-Store Loyalists
+C578,Quality Focused
+C579,Quality Focused
+C580,In-Store Loyalists
+C581,Price Sensitive
+C582,Occasional Shoppers
+C583,Quality Focused
+C584,In-Store Loyalists
+C585,Subscription Members
+C586,In-Store Loyalists
+C587,Frequent Buyers
+C588,Occasional Shoppers
+C589,Mobile Shoppers
+C590,Price Sensitive
+C591,Eco-conscious
+C592,Mobile Shoppers
+C593,Occasional Shoppers
+C594,Occasional Shoppers
+C595,Occasional Shoppers
+C596,Mobile Shoppers
+C597,Subscription Members
+C598,Occasional Shoppers
+C599,In-Store Loyalists
+C600,Mobile Shoppers
+C601,Eco-conscious
+C602,Occasional Shoppers
+C603,In-Store Loyalists
+C604,Subscription Members
+C605,Frequent Buyers
+C606,Subscription Members
+C607,Eco-conscious
+C608,Occasional Shoppers
+C609,Eco-conscious
+C610,Mobile Shoppers
+C611,Quality Focused
+C612,Occasional Shoppers
+C613,Quality Focused
+C614,In-Store Loyalists
+C615,Frequent Buyers
+C616,Price Sensitive
+C617,Eco-conscious
+C618,Subscription Members
+C619,Frequent Buyers
+C620,Occasional Shoppers
+C621,Quality Focused
+C622,Subscription Members
+C623,Quality Focused
+C624,Mobile Shoppers
+C625,Quality Focused
+C626,Mobile Shoppers
+C627,In-Store Loyalists
+C628,Subscription Members
+C629,Subscription Members
+C630,Price Sensitive
+C631,Occasional Shoppers
+C632,Mobile Shoppers
+C633,Price Sensitive
+C634,Quality Focused
+C635,Quality Focused
+C636,Price Sensitive
+C637,Subscription Members
+C638,Quality Focused
+C639,Eco-conscious
+C640,In-Store Loyalists
+C641,In-Store Loyalists
+C642,Eco-conscious
+C643,Price Sensitive
+C644,Eco-conscious
+C645,Mobile Shoppers
+C646,Mobile Shoppers
+C647,Price Sensitive
+C648,Eco-conscious
+C649,Mobile Shoppers
+C650,Subscription Members
+C651,Eco-conscious
+C652,Subscription Members
+C653,Mobile Shoppers
+C654,In-Store Loyalists
+C655,Mobile Shoppers
+C656,Subscription Members
+C657,Frequent Buyers
+C658,Occasional Shoppers
+C659,Quality Focused
+C660,Eco-conscious
+C661,Frequent Buyers
+C662,Mobile Shoppers
+C663,In-Store Loyalists
+C664,Price Sensitive
+C665,Mobile Shoppers
+C666,In-Store Loyalists
+C667,Occasional Shoppers
+C668,Mobile Shoppers
+C669,Subscription Members
+C670,Price Sensitive
+C671,In-Store Loyalists
+C672,In-Store Loyalists
+C673,In-Store Loyalists
+C674,Occasional Shoppers
+C675,Mobile Shoppers
+C676,Occasional Shoppers
+C677,Eco-conscious
+C678,Quality Focused
+C679,Quality Focused
+C680,Eco-conscious
+C681,Mobile Shoppers
+C682,Subscription Members
+C683,Occasional Shoppers
+C684,Price Sensitive
+C685,In-Store Loyalists
+C686,In-Store Loyalists
+C687,Mobile Shoppers
+C688,Subscription Members
+C689,Quality Focused
+C690,Quality Focused
+C691,In-Store Loyalists
+C692,Mobile Shoppers
+C693,Occasional Shoppers
+C694,Quality Focused
+C695,Occasional Shoppers
+C696,Subscription Members
+C697,Quality Focused
+C698,Quality Focused
+C699,Frequent Buyers
+C700,Quality Focused
+C701,Eco-conscious
+C702,Price Sensitive
+C703,Eco-conscious
+C704,Mobile Shoppers
+C705,Mobile Shoppers
+C706,Occasional Shoppers
+C707,Eco-conscious
+C708,Eco-conscious
+C709,Eco-conscious
+C710,Subscription Members
+C711,Quality Focused
+C712,Price Sensitive
+C713,Occasional Shoppers
+C714,Eco-conscious
+C715,Eco-conscious
+C716,Frequent Buyers
+C717,Occasional Shoppers
+C718,Eco-conscious
+C719,Occasional Shoppers
+C720,Quality Focused
+C721,Frequent Buyers
+C722,Occasional Shoppers
+C723,Price Sensitive
+C724,Price Sensitive
+C725,Mobile Shoppers
+C726,Frequent Buyers
+C727,Frequent Buyers
+C728,Mobile Shoppers
+C729,Occasional Shoppers
+C730,Frequent Buyers
+C731,Price Sensitive
+C732,Price Sensitive
+C733,Eco-conscious
+C734,Quality Focused
+C735,Frequent Buyers
+C736,Occasional Shoppers
+C737,Mobile Shoppers
+C738,Mobile Shoppers
+C739,Occasional Shoppers
+C740,Subscription Members
+C741,In-Store Loyalists
+C742,Quality Focused
+C743,Mobile Shoppers
+C744,Frequent Buyers
+C745,Quality Focused
+C746,Frequent Buyers
+C747,Subscription Members
+C748,Price Sensitive
+C749,Quality Focused
+C750,Eco-conscious
+C751,Mobile Shoppers
+C752,Quality Focused
+C753,Quality Focused
+C754,Quality Focused
+C755,In-Store Loyalists
+C756,Quality Focused
+C757,Frequent Buyers
+C758,Price Sensitive
+C759,Subscription Members
+C760,Occasional Shoppers
+C761,Quality Focused
+C762,Mobile Shoppers
+C763,Quality Focused
+C764,Mobile Shoppers
+C765,Frequent Buyers
+C766,Mobile Shoppers
+C767,Eco-conscious
+C768,Occasional Shoppers
+C769,Price Sensitive
+C770,Mobile Shoppers
+C771,Mobile Shoppers
+C772,Price Sensitive
+C773,Occasional Shoppers
+C774,Quality Focused
+C775,Mobile Shoppers
+C776,Price Sensitive
+C777,Eco-conscious
+C778,Eco-conscious
+C779,Frequent Buyers
+C780,Price Sensitive
+C781,Frequent Buyers
+C782,Eco-conscious
+C783,Occasional Shoppers
+C784,Quality Focused
+C785,Price Sensitive
+C786,Subscription Members
+C787,Eco-conscious
+C788,Eco-conscious
+C789,Subscription Members
+C790,In-Store Loyalists
+C791,Eco-conscious
+C792,Mobile Shoppers
+C793,Occasional Shoppers
+C794,Price Sensitive
+C795,Subscription Members
+C796,Mobile Shoppers
+C797,Subscription Members
+C798,Price Sensitive
+C799,Frequent Buyers
+C800,Price Sensitive
+C801,In-Store Loyalists
+C802,Price Sensitive
+C803,Price Sensitive
+C804,In-Store Loyalists
+C805,Occasional Shoppers
+C806,Eco-conscious
+C807,Price Sensitive
+C808,In-Store Loyalists
+C809,Mobile Shoppers
+C810,Frequent Buyers
+C811,Frequent Buyers
+C812,Price Sensitive
+C813,Occasional Shoppers
+C814,Occasional Shoppers
+C815,Mobile Shoppers
+C816,Price Sensitive
+C817,Frequent Buyers
+C818,Occasional Shoppers
+C819,Price Sensitive
+C820,Subscription Members
+C821,Occasional Shoppers
+C822,In-Store Loyalists
+C823,Subscription Members
+C824,Eco-conscious
+C825,Occasional Shoppers
+C826,Frequent Buyers
+C827,Quality Focused
+C828,Subscription Members
+C829,Eco-conscious
+C830,Mobile Shoppers
+C831,Mobile Shoppers
+C832,Frequent Buyers
+C833,Occasional Shoppers
+C834,Price Sensitive
+C835,Occasional Shoppers
+C836,Frequent Buyers
+C837,Mobile Shoppers
+C838,Occasional Shoppers
+C839,Mobile Shoppers
+C840,Subscription Members
+C841,Eco-conscious
+C842,Price Sensitive
+C843,Subscription Members
+C844,Mobile Shoppers
+C845,Mobile Shoppers
+C846,Quality Focused
+C847,Quality Focused
+C848,Subscription Members
+C849,In-Store Loyalists
+C850,Subscription Members
+C851,Quality Focused
+C852,Mobile Shoppers
+C853,Frequent Buyers
+C854,Subscription Members
+C855,Mobile Shoppers
+C856,Frequent Buyers
+C857,Frequent Buyers
+C858,Quality Focused
+C859,Subscription Members
+C860,Occasional Shoppers
+C861,Price Sensitive
+C862,Quality Focused
+C863,Quality Focused
+C864,Occasional Shoppers
+C865,Price Sensitive
+C866,Mobile Shoppers
+C867,In-Store Loyalists
+C868,Subscription Members
+C869,In-Store Loyalists
+C870,Mobile Shoppers
+C871,Eco-conscious
+C872,Quality Focused
+C873,Price Sensitive
+C874,Quality Focused
+C875,Frequent Buyers
+C876,Quality Focused
+C877,Quality Focused
+C878,Mobile Shoppers
+C879,Mobile Shoppers
+C880,Mobile Shoppers
+C881,In-Store Loyalists
+C882,Frequent Buyers
+C883,Eco-conscious
+C884,Eco-conscious
+C885,Mobile Shoppers
+C886,Price Sensitive
+C887,In-Store Loyalists
+C888,Occasional Shoppers
+C889,Price Sensitive
+C890,Subscription Members
+C891,Subscription Members
+C892,Price Sensitive
+C893,Mobile Shoppers
+C894,Occasional Shoppers
+C895,Occasional Shoppers
+C896,In-Store Loyalists
+C897,Occasional Shoppers
+C898,Subscription Members
+C899,Frequent Buyers
+C900,Mobile Shoppers
+C901,Occasional Shoppers
+C902,In-Store Loyalists
+C903,Subscription Members
+C904,Frequent Buyers
+C905,Quality Focused
+C906,Quality Focused
+C907,Frequent Buyers
+C908,Subscription Members
+C909,In-Store Loyalists
+C910,Frequent Buyers
+C911,Mobile Shoppers
+C912,Mobile Shoppers
+C913,Quality Focused
+C914,Occasional Shoppers
+C915,In-Store Loyalists
+C916,Quality Focused
+C917,Occasional Shoppers
+C918,Occasional Shoppers
+C919,Eco-conscious
+C920,Mobile Shoppers
+C921,Subscription Members
+C922,Price Sensitive
+C923,Subscription Members
+C924,Price Sensitive
+C925,Frequent Buyers
+C926,Mobile Shoppers
+C927,Occasional Shoppers
+C928,In-Store Loyalists
+C929,Price Sensitive
+C930,Subscription Members
+C931,Occasional Shoppers
+C932,Price Sensitive
+C933,Price Sensitive
+C934,Eco-conscious
+C935,Price Sensitive
+C936,In-Store Loyalists
+C937,Mobile Shoppers
+C938,In-Store Loyalists
+C939,Quality Focused
+C940,Occasional Shoppers
+C941,Mobile Shoppers
+C942,Eco-conscious
+C943,Mobile Shoppers
+C944,Mobile Shoppers
+C945,Subscription Members
+C946,Mobile Shoppers
+C947,Eco-conscious
+C948,In-Store Loyalists
+C949,Mobile Shoppers
+C950,Frequent Buyers
+C951,Occasional Shoppers
+C952,Mobile Shoppers
+C953,Occasional Shoppers
+C954,Frequent Buyers
+C955,Frequent Buyers
+C956,Occasional Shoppers
+C957,Price Sensitive
+C958,Quality Focused
+C959,Subscription Members
+C960,Price Sensitive
+C961,Price Sensitive
+C962,In-Store Loyalists
+C963,Subscription Members
+C964,Subscription Members
+C965,Price Sensitive
+C966,Mobile Shoppers
+C967,In-Store Loyalists
+C968,In-Store Loyalists
+C969,Frequent Buyers
+C970,Eco-conscious
+C971,Subscription Members
+C972,Price Sensitive
+C973,Frequent Buyers
+C974,Occasional Shoppers
+C975,Quality Focused
+C976,Eco-conscious
+C977,Eco-conscious
+C978,Eco-conscious
+C979,In-Store Loyalists
+C980,Occasional Shoppers
+C981,Eco-conscious
+C982,Occasional Shoppers
+C983,Mobile Shoppers
+C984,Eco-conscious
+C985,Quality Focused
+C986,Occasional Shoppers
+C987,Occasional Shoppers
+C988,Quality Focused
+C989,Eco-conscious
+C990,Quality Focused
+C991,Occasional Shoppers
+C992,Quality Focused
+C993,Occasional Shoppers
+C994,Occasional Shoppers
+C995,Mobile Shoppers
+C996,Price Sensitive
+C997,Occasional Shoppers
+C998,Eco-conscious
+C999,Frequent Buyers
